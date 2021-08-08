@@ -1,0 +1,6 @@
+D:\test\Web API\CustomerBankWebAPI\BankLib\bin\Debug\BankLib.dll
+D:\test\Web API\CustomerBankWebAPI\BankLib\bin\Debug\BankLib.pdb
+D:\test\Web API\CustomerBankWebAPI\BankLib\obj\Debug\BankLib.csproj.CoreCompileInputs.cache
+D:\test\Web API\CustomerBankWebAPI\BankLib\obj\Debug\BankLib.dll
+D:\test\Web API\CustomerBankWebAPI\BankLib\obj\Debug\BankLib.pdb
+D:\test\Web API\CustomerBankWebAPI\BankLib\obj\Debug\BankLib.csproj.AssemblyReference.cache
